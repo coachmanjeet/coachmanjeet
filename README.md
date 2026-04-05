@@ -12,27 +12,17 @@
 
 ---
 
-## 🔭 Current Focus at Salesforce
-
-- 🧠 **[Agentforce Session Telemetry](https://www.salesforce.com/agentforce/)** — STDM schema for multi-agent tracing (SOMA/MOMA patterns, W3C Trace Context)
-- 📡 **[OTel Export for Agentforce](https://opentelemetry.io/)** — Joint OpenTelemetry/CNCF initiative, Session Trace API (OTel Beta)
-- 🔍 **RAG Quality Monitoring** — End-to-end retrieval pipeline observability for enterprise GenAI
-- 🎙️ **Voice Agent Observability** — Metrics, latency tracing, and quality signals for voice-based agents
-- 🕸️ **Context Graph for AI** — Temporal context graph for agentic decision tracing (patent pending)
-- 🔄 **Continuous Optimization Loop** — Data-driven RL loop for autonomous agent improvement
-- 🔐 **Trust & Security** — Sensitive data masking in STDM DMOs, compliance for ADP, CVS Health, TIAA
-
----
-
 ## 🛠️ Active Projects
 
 | Project | Description |
 |---|---|
+| 🧠 **[Agentforce](https://www.salesforce.com/agentforce/)** — Multi Agent Evals, Observability,Control Tower)|
 | 🤖 **agentforce-adlc** | Agent development lifecycle toolkit built with Claude Code |
-| 📊 **STDM Schema** | Multi-agent session tracing data model (W3C + MCP/A2A) |
+| 🕸️ **Context Graph for AI** — Temporal context graph for agentic decision tracing (patent pending) |
 | 🧪 **Eval Framework** | Single & multi-agent evals for enterprise AI quality |
 | 📡 **GenAI LLM Diagnostics** | `GenAIGtwyRequestLLM` DMO for LLM gateway observability |
 | 🤖 **Personal AI OS** | GitHub repo + MCP server for portable context management |
+| 🔄 **Continuous Optimization Loop** — Data-driven RL loop for autonomous agent improvement|
 | 📚 **Maven Course** | AI evals for PMs — teaching product intuition for GenAI |
 
 ---
@@ -43,7 +33,7 @@
 - ✍️ **LinkedIn** — Publishing on AI infrastructure, enterprise agentic strategy, and PM career development
 - 🗣️ **Speaker** — Platforms Peer Interconnect Summit (Adobe, San Jose) on AI agent evals & observability
 - 🏆 **Top 75 PM Mentors** — Recognized on Sharebird's top PM mentors list
-- 💡 **15+ Patents** — AI agents, automation, multi-agent orchestration
+- 💡 **20+ Patents** — AI agents, automation, multi-agent orchestration
 
 ---
 
@@ -51,7 +41,7 @@
 
 🌱 **[AgileFitness](https://agiletfitness.com)** — Nonprofit wellness community, 300,000+ members. Health & fitness for corporate professionals.
 
-☕ **Chai Lounge Concept** — Exploring an Indian tea/chai lounge in the SF Bay Area (work in progress)
+☕ **Chai Lounge Concept** — tea/chai lounge in the SF Bay Area (work in progress)
 
 ---
 
