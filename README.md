@@ -14,16 +14,16 @@ I write and speaks about AI and fitness, believing the best systems, human or ar
 
 ---
 
-## 🔭 Current Focus at Salesforce
+## 🔭 Current Projects
 
 - 🧠 **[Agentforce ](https://www.salesforce.com/agentforce/)** — building agentforce multi agent platform
+- 🤖 **AI PM OS** | Product Management Operating System (PMOS) 
 - 🔍 **RAG Quality Monitoring** — End-to-end retrieval pipeline observability for enterprise GenAI
-- 🧪 **Eval Framework** | Single & multi-agent evals for enterprise AI quality |
+- 🧪 **Eval Framework** | Single & multi-agent evals for enterprise AI quality 
 - 🎙️ **Voice Agent Observability** — Metrics, latency tracing, and quality signals for voice-based agents
 - 🕸️ **Context Graph for AI** — Temporal context graph for agentic decision tracing (patent pending)
-- 🔄 **Continuous Optimization Loop** — Data-driven RL loop for autonomous agent improvement
-- 🤖 **Personal AI OS** | GitHub repo + MCP server for portable context management |
-- 📚 **Maven Course** | AI evals for PMs — teaching product intuition for GenAI |
+- 🔄 **Auto Agent Optimization Loop** — Data-driven RL loop for autonomous agent improvement
+- 📚 **Maven Course** | AI evals for PMs — teaching product intuition for GenAI 
 
 ---
 
