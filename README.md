@@ -1,6 +1,6 @@
 # Hi, I'm Manjeet 👋
 
-📍 San Francisco Bay Area &nbsp;|&nbsp; 🤖 Native AI PM, Fitness Maximalist &nbsp;|&nbsp; 🏭 20+ Patents in AI + Data + Platform
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🤖 AI Agents & GenAI Platform Builder &nbsp;|&nbsp; 🏭 15+ Patents in AI Automation
 
 ![AI Agents](https://img.shields.io/badge/AI_Agents-Multi--Agent_Orchestration-00D4FF?style=flat-square)
 ![Evals](https://img.shields.io/badge/Evals-Observability-0097B2?style=flat-square)
@@ -8,22 +8,22 @@
 ![OTel](https://img.shields.io/badge/OpenTelemetry-CNCF-blueviolet?style=flat-square)
 ![Salesforce](https://img.shields.io/badge/Salesforce-Agentforce-00A1E0?style=flat-square)
 
-> Building the observability and intelligence layer for enterprise AI agents at scale. Senior Director of Product, Agentforce AI Agents & GenAI Platforms at Salesforce. Founding engineer DNA. 15+ patents. Nonprofit founder. Podcast host.
+> By day, I am product lead for Agentforce AI, building next generation AI platforms. I had previously led product teams at ServiceNow and high growth startups.
+Beyond tech, I am a fitness coach and a long-term practitioner of health and fitness. I run a nonprofit community, Agile Fitness, with over 300,000 members.
+I write and speaks about AI and fitness, believing the best systems, human or artificial, are built to improve continuously.
 
 ---
 
-## 🛠️ Active Projects
+## 🔭 Current Focus at Salesforce
 
-| Project | Description |
-|---|---|
-| 🧠 **[Agentforce](https://www.salesforce.com/agentforce/)** — Multi Agent Evals, Observability,Control Tower)|
-| 🤖 **agentforce-adlc** | Agent development lifecycle toolkit built with Claude Code |
-| 🕸️ **Context Graph for AI** — Temporal context graph for agentic decision tracing (patent pending) |
-| 🧪 **Eval Framework** | Single & multi-agent evals for enterprise AI quality |
-| 📡 **GenAI LLM Diagnostics** | `GenAIGtwyRequestLLM` DMO for LLM gateway observability |
-| 🤖 **Personal AI OS** | GitHub repo + MCP server for portable context management |
-| 🔄 **Continuous Optimization Loop** — Data-driven RL loop for autonomous agent improvement|
-| 📚 **Maven Course** | AI evals for PMs — teaching product intuition for GenAI |
+- 🧠 **[Agentforce ](https://www.salesforce.com/agentforce/)** — building agentforce multi agent platform
+- 🔍 **RAG Quality Monitoring** — End-to-end retrieval pipeline observability for enterprise GenAI
+- 🧪 **Eval Framework** | Single & multi-agent evals for enterprise AI quality |
+- 🎙️ **Voice Agent Observability** — Metrics, latency tracing, and quality signals for voice-based agents
+- 🕸️ **Context Graph for AI** — Temporal context graph for agentic decision tracing (patent pending)
+- 🔄 **Continuous Optimization Loop** — Data-driven RL loop for autonomous agent improvement
+- 🤖 **Personal AI OS** | GitHub repo + MCP server for portable context management |
+- 📚 **Maven Course** | AI evals for PMs — teaching product intuition for GenAI |
 
 ---
 
@@ -41,7 +41,7 @@
 
 🌱 **[AgileFitness](https://agiletfitness.com)** — Nonprofit wellness community, 300,000+ members. Health & fitness for corporate professionals.
 
-☕ **Chai Lounge Concept** — tea/chai lounge in the SF Bay Area (work in progress)
+☕ **Chai Lounge Concept** — Exploring an Indian tea/chai lounge in the SF Bay Area (work in progress)
 
 ---
 
