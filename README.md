@@ -1,6 +1,6 @@
 # Hi, I'm Manjeet 👋
 
-📍 San Francisco Bay Area &nbsp;|&nbsp; 🤖 AI Agents & GenAI Platform Builder &nbsp;|&nbsp; 🏭 15+ Patents in AI Automation
+📍 San Francisco Bay Area &nbsp;|&nbsp; 🤖 Native AI PM Builder &nbsp;|&nbsp; 🏭 Fitness and Longevity Maximalist
 
 ![AI Agents](https://img.shields.io/badge/AI_Agents-Multi--Agent_Orchestration-00D4FF?style=flat-square)
 ![Evals](https://img.shields.io/badge/Evals-Observability-0097B2?style=flat-square)
