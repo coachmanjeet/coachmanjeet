@@ -27,15 +27,16 @@ I write and speaks about AI and fitness, believing the best systems, human or ar
 
 ## 🧑‍🏫 What I am teaching
 - 📚 **[AIready ](https://github.com/coachmanjeet/AIinterviewSkills)**| AIReady is a mobile app to master agentic ai
-- 📚 **Maven Course** | AI evals for PMs — teaching product intuition for GenAI 
+- 📚 **Product School** | AI PM, AI Eval and AI Strategy Course
+- 📚 **Maven Course** | AI evals for PMs — teaching AI product sense.
 
 ---
 
 ## 🎤 Thought Leadership
-
-- 🎙️ **"Top News That Matters"** — Monthly AI podcast for PMs, engineers, CIOs, CTOs
+- ✍️ **[Weekly Newsletter ](https://manjeet.substack.com/)**| — My substack on AI and Fitness
+- 🎙️ **"Top News That Matters(https://www.youtube.com/watch?v=rYyjqr2d7Ig)"** — Monthly AI podcast for PMs, engineers, CIOs, CTOs
 - ✍️ **LinkedIn** — Publishing on AI infrastructure, enterprise agentic strategy, and PM career development
-- 🗣️ **Speaker** — Platforms Peer Interconnect Summit (Adobe, San Jose) on AI agent evals & observability
+- 🗣️ **Speaker** — Regular speaker in AI event, conferences
 - 🏆 **Top 75 PM Mentors** — Recognized on Sharebird's top PM mentors list
 - 💡 **20+ Patents** — AI agents, automation, multi-agent orchestration
 
