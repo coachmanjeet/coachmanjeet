@@ -46,7 +46,7 @@ I write and speaks about AI and fitness, believing the best systems, human or ar
 
 🌱 **[AgileFitness](https://agiletfitness.com)** — Nonprofit wellness community, 300,000+ members. Health & fitness for corporate professionals.
 
-☕ **Chai Lounge Concept** — Exploring an Indian tea/chai lounge in the SF Bay Area (work in progress)
+☕ **Chai Lounge Concept** — for human to human collaboration!
 
 ---
 
