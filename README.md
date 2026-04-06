@@ -34,7 +34,7 @@ I write and speaks about AI and fitness, believing the best systems, human or ar
 
 ## 🎤 Thought Leadership
 - ✍️ **[Weekly Newsletter ](https://manjeet.substack.com/)**| — My substack on AI and Fitness
-- 🎙️ **"Top News That Matters(https://www.youtube.com/watch?v=rYyjqr2d7Ig)"** — Monthly AI podcast for PMs, engineers, CIOs, CTOs
+- 🎙️ **[Monthly AI Podcast ](https://www.youtube.com/watch?v=rYyjqr2d7Ig)"** — Monthly AI podcast for PMs, engineers, CIOs, CTOs
 - ✍️ **LinkedIn** — Publishing on AI infrastructure, enterprise agentic strategy, and PM career development
 - 🗣️ **Speaker** — Regular speaker in AI event, conferences
 - 🏆 **Top 75 PM Mentors** — Recognized on Sharebird's top PM mentors list
