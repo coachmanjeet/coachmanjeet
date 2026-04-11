@@ -17,8 +17,9 @@ I write and speaks about AI and fitness, believing the best systems, human or ar
 ## 🔭 Current Projects
 
 - 🧠 **[Agentforce ](https://github.com/coachmanjeet/agentforce-lifecycle-toolchain/)** — building agentforce multi agent platform
+- 🧠 **[Agentforce adlc ](https://github.com/coachmanjeet/agentforce-adlc/)** — Agent Development Life Cycle — Build, deploy, test, and optimize Agentforce 
+- 🤖  **[AI PM OS ](https://github.com/coachmanjeet/ai-pm-team-os)** | Product Management Operating System (PMOS)
 - 💪 **[AgileFitness Book Skills ](https://github.com/coachmanjeet/agilefitness/)** — my entire agilefitness book in skills
-- 🤖  **[AI PM OS ](https://github.com/coachmanjeet/ai-pm-team-os)** | Product Management Operating System (PMOS) 
 - 🔍 **RAG Quality Monitoring** — End-to-end retrieval pipeline observability for enterprise GenAI
 - 🧪 **Eval Framework** | Single & multi-agent evals for enterprise AI quality 
 - 🎙️ **Voice Agent Observability** — Metrics, latency tracing, and quality signals for voice-based agents
