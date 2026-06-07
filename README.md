@@ -1,4 +1,4 @@
-**Hi, I'm Manjeet** 👋 | **AI Product Management Lead — Agentforce**  
+**Hi, I'm Manjeet** 👋 | **AI PM Lead — Agentforce**  
 📍 San Francisco Bay Area
 
 I build AI agents and ship working examples that you can use right away.
