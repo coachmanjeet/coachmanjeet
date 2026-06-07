@@ -21,13 +21,13 @@ A connected stack for the **Agent Development Life Cycle** — discover what to 
 
 | # | Name | Repo | What it is | Stage | Demo |
 |:-:|---|---|---|:-:|:-:|
-| 1 | 🧠 **Agentforce PM Team OS** | [`agentforce-pm-os`](https://git.soma.salesforce.com/singhmanjeet/agentforce-pm-os) | Internal tooling — Claude Code-powered Team OS for Agentforce PMs. 20+ skills, 5 review agents, domain context pre-loaded. | 🟢 Ready to Use | — |
-| 2 | 🔍 **Agentforce Discovery** | [`agentforce-discovery`](https://git.soma.salesforce.com/singhmanjeet/agentforce-discovery) | Find what to automate, then build the agents that do it. | 🟠 Prototype | [▶️ Watch](https://drive.google.com/file/d/1PvsYSfdFDTRnquxdAu7Q_ke1yoGgorKP/view?usp=sharing) |
-| 3 | 🧪 **Agentforce Eval Pack** | [`agentforce-eval-pack`](https://git.soma.salesforce.com/singhmanjeet/agentforce-eval-pack) | Skill + CLI prototype. Customer-facing evaluation product per shipped agent. | 🟢 Ready to Use | — |
+| 1 | 🧠 **AI PM Team OS** | [`ai-pm-os`](https://github.com/coachmanjeet/ai-pm-team-os) | A Claude Code-powered operating system for Agentforce product teams. Skills do the work, agents review it, context makes it smart. | 🟢 Ready to Use | — |
+| 2 | 🔍 **Agent Lifecycle** | [`Agent0lifecycle`](https://github.com/coachmanjeet/agent-lifecycle) | n open-source library of practical, world-class working examples for building, evaluating, observing, securing, and self-optimizing AI agents in production | 🟢 Ready to Use | (https://drive.google.com/file/d/1PvsYSfdFDTRnquxdAu7Q_ke1yoGgorKP/view?usp=sharing) |
+| 3 | 🧪 **AI Product Strategy** | [`ai-product-strategy`](https://github.com/coachmanjeet/ai-product-startegy) | A living strategy framework. this repo IS your strategy — version-controlled, board-ready, portable. | 🟢 Ready to Use | — |
 | 4 | 🏆 **Agentforce Harness Benchmark** | [`agentforce-harness-benchmark`](https://git.soma.salesforce.com/singhmanjeet/agentforce-harness-benchmark) | Compares internal harness runtimes (ARC, A2, Optimization, Vibes) against a shared evaluation set. | 🟠 In dev | — |
 | 5 | 🏛️ **Agentforce Data Foundation** | [`prototype-af-datafoundation`](https://git.soma.salesforce.com/singhmanjeet/prototype-af-datafoundation) | Open, interoperable, headless tracing/observability for Agentforce. | 🟠 Prototype | — |
 | 6 | ⚡ **Agentforce Performance Tuning** | [`agentforce-performance-tuning`](https://git.soma.salesforce.com/singhmanjeet/agentforce-performance-tuning) | Diagnoses Agentforce agent latency, step breakdown, and tuning recommendations. | 🟢 Piloting with Internal FDEs | [▶️ Watch](https://drive.google.com/file/d/1RXmbiT-kMue7kjKG7Hw7uqs5-mLKf1hy/view?usp=sharing) |
-| 7 | 💰 **Agentforce Consumption & ROI** | [`credit-cost-optimization`](https://git.soma.salesforce.com/singhmanjeet/credit-cost-optimization) | Agentforce Insights: Consumption, Optimization & ROI. | 🟢 Piloting with Internal FDEs | [▶️ Watch](https://drive.google.com/file/d/1fdMfU4YoRV51KRUsZ0ZLLMiZ54PTCPST/view?usp=sharing) |
+| 7 | 💰 **AgileFitness Book** | [`credit-cost-optimization`](https://github.com/coachmanjeet/agilefitness) | Based on my book Fitness and Wellness for Modern Human | 🟢 Ready to use | [▶️ Watch]|
 
 <br>
 
