@@ -5,13 +5,12 @@ I build AI agents and ship working examples that you can use right away.
 
 Most of my work is hands-on: real code, clear patterns, and tested setups for AI Agents, Multi-agent teams, Eval, Observability, Self Improving Agents.
 
-What I work on
+## What I work on
 
-AI Agents: single-agent, multi-agent, MCP-based, browser agents, voice agents
-AI Evals: Model evals, RAG evals, Agent evals, harness evals, multi-modal evals
-Agent Observablity: Agent monitoring, multi agent observablity, control tower
-
-A connected stack for the **Agent Development Life Cycle** — discover what to automate, build the agent, ship with evals, observe in production, and close the loop with auto-optimization. Each project below plugs into that flywheel.
+- AI Agents platform: single-agent, multi-agent, MCP-based, browser agents, voice agents
+- AI Evals: Model evals, RAG evals, Agent evals, harness evals, multi-modal evals
+- Agent Observablity: Agent monitoring, multi agent observablity, control tower
+- A connected stack for the **Agent Development Life Cycle** — discover what to automate, build the agent, ship with evals, observe in production, and close the loop with auto-optimization. Each project below plugs into that flywheel.
 
 ```
    🔍 Discover   →   🛠️  Build   →   🧪 Eval   →   📡 Observe        →   ⚡ Optimize
