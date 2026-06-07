@@ -22,12 +22,11 @@ A connected stack for the **Agent Development Life Cycle** — discover what to 
 | # | Name | Repo | What it is | Stage | Demo |
 |:-:|---|---|---|:-:|:-:|
 | 1 | 🧠 **AI PM Team OS** | [`ai-pm-os`](https://github.com/coachmanjeet/ai-pm-team-os) | A Claude Code-powered operating system for Agentforce product teams. Skills do the work, agents review it, context makes it smart. | 🟢 Ready to Use | — |
-| 2 | 🔍 **Agent Lifecycle** | [`Agent0lifecycle`](https://github.com/coachmanjeet/agent-lifecycle) | n open-source library of practical, world-class working examples for building, evaluating, observing, securing, and self-optimizing AI agents in production | 🟢 Ready to Use | (https://drive.google.com/file/d/1PvsYSfdFDTRnquxdAu7Q_ke1yoGgorKP/view?usp=sharing) |
+| 2 | 🔍 **Agent Lifecycle** | [`Agent-lifecycle`](https://github.com/coachmanjeet/agent-lifecycle) | open-source library of practical, world-class working examples for building, evaluating, observing, securing, and self-optimizing AI agents in production | 🟢 Ready to Use |  |
 | 3 | 🧪 **AI Product Strategy** | [`ai-product-strategy`](https://github.com/coachmanjeet/ai-product-startegy) | A living strategy framework. this repo IS your strategy — version-controlled, board-ready, portable. | 🟢 Ready to Use | — |
-| 4 | 🏆 **Agentforce Harness Benchmark** | [`agentforce-harness-benchmark`](https://git.soma.salesforce.com/singhmanjeet/agentforce-harness-benchmark) | Compares internal harness runtimes (ARC, A2, Optimization, Vibes) against a shared evaluation set. | 🟠 In dev | — |
-| 5 | 🏛️ **Agentforce Data Foundation** | [`prototype-af-datafoundation`](https://git.soma.salesforce.com/singhmanjeet/prototype-af-datafoundation) | Open, interoperable, headless tracing/observability for Agentforce. | 🟠 Prototype | — |
-| 6 | ⚡ **Agentforce Performance Tuning** | [`agentforce-performance-tuning`](https://git.soma.salesforce.com/singhmanjeet/agentforce-performance-tuning) | Diagnoses Agentforce agent latency, step breakdown, and tuning recommendations. | 🟢 Piloting with Internal FDEs | [▶️ Watch](https://drive.google.com/file/d/1RXmbiT-kMue7kjKG7Hw7uqs5-mLKf1hy/view?usp=sharing) |
-| 7 | 💰 **AgileFitness Book** | [`credit-cost-optimization`](https://github.com/coachmanjeet/agilefitness) | Based on my book Fitness and Wellness for Modern Human | 🟢 Ready to use | [▶️ Watch]|
+| 4 | ⚡ **Agentic Evals** | [`agentic-evals`]() | A comprehensive evaluation framework for AI agents, workflows, multi-agent systems, RAG applications, and foundation models. | 🟢 Ready to use | [▶️ Watch]— |
+| 5 | 🏆 **DeepDive-into-Claude-Code** | [`deep-drive-claude-code`](https://github.com/coachmanjeet/DeepDive-into-Claude-Code) | A comprehensive source-level architectural analysis of Claude Code. |  | — |
+| 6 | 💰 **AgileFitness Book** | [`credit-cost-optimization`](https://github.com/coachmanjeet/agilefitness) | Based on my book Fitness and Wellness for Modern Human | 🟢 Ready to use | [—]|
 
 <br>
 
