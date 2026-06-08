@@ -35,7 +35,7 @@ My focus is simple:
 | 2 | 🧭 **AI Product Strategy** | [`ai-product-strategy`](https://github.com/coachmanjeet/ai-product-startegy) | Create clear, board-ready AI product strategies that align teams, prioritize investments, and accelerate execution. |
 | 3 | 🔄 **Agent Lifecycle** | [`Agent-lifecycle`](https://github.com/coachmanjeet/agent-lifecycle) | Build production-ready AI agents with proven patterns for evaluation, observability, security, deployment, and continuous optimization. |
 | 4 | 📊 **Agentic Evals** | [`agentic-evals`](https://github.com/coachmanjeet/agentic-evals) | Measure, benchmark, and improve the quality, reliability, and business impact of AI agents, workflows, RAG systems, and models. |
-| 5 | 📊 **Agentic Observability** | [`agentic-observability`](https://github.com/coachmanjeet/agentic-evals) | Measure, benchmark, and improve the quality, reliability, and business impact of AI agents, workflows, RAG systems, and models. |
+| 5 | 📊 **Agentic Observability** | [`agentic-observability`](https://github.com/coachmanjeet/agent-ops) | Measure, benchmark, and improve the quality, reliability, and business impact of AI agents, workflows, RAG systems, and models. |
 | 6 | 🔬 **DeepDive into Claude Code Harness** | [`deep-drive-claude-code`](https://github.com/coachmanjeet/DeepDive-into-Claude-Code) | Learn Claude Code's architecture and design patterns to build more capable AI coding agents and developer tools. |
 | 7 | 💪 **AgileFitness Book** | [`agilefitness`](https://github.com/coachmanjeet/agilefitness) | Build lasting health, strength, and energy with practical fitness and wellness habits designed for busy professionals. |
 
