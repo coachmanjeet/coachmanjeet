@@ -15,9 +15,9 @@ Most of my work is hands-on: real code, clear patterns, and tested setups for AI
 ```
    🔍 Discover   →   🛠️  Build   →   🧪 Eval   →   📡 Observe        →   ⚡ Optimize
         │                 │              │              │                      │
-    Discovery           Skills       Eval Pack     Data Foundation         Consumption
-                                     Harness       (STDM / OTel)           & ROI / Auto
-                                                                         Optimization Loop
+    Discovery           Skills       Eval Pack     Data Foundation        Outcome/ROI
+                                     Harness       (STDM / OTel)          Optimization Loop
+                                                                         
 ```
 <br>
 
@@ -26,11 +26,12 @@ Most of my work is hands-on: real code, clear patterns, and tested setups for AI
 | # | Name | Repo | What it helps you achieve |
 |:-:|---|---|---|
 | 1 | 🧠 **AI PM Team OS** | [`ai-pm-os`](https://github.com/coachmanjeet/ai-pm-team-os) | Ship AI products faster with a proven operating system that turns strategy, planning, execution, and reviews into repeatable AI-powered workflows. |
-| 2 | 🔄 **Agent Lifecycle** | [`Agent-lifecycle`](https://github.com/coachmanjeet/agent-lifecycle) | Build production-ready AI agents with proven patterns for evaluation, observability, security, deployment, and continuous optimization. |
-| 3 | 🧭 **AI Product Strategy** | [`ai-product-strategy`](https://github.com/coachmanjeet/ai-product-startegy) | Create clear, board-ready AI product strategies that align teams, prioritize investments, and accelerate execution. |
-| 4 | 📊 **Agentic Evals** | [`agentic-evals`]() | Measure, benchmark, and improve the quality, reliability, and business impact of AI agents, workflows, RAG systems, and models. |
-| 5 | 🔬 **DeepDive into Claude Code** | [`deep-drive-claude-code`](https://github.com/coachmanjeet/DeepDive-into-Claude-Code) | Learn Claude Code's architecture and design patterns to build more capable AI coding agents and developer tools. |
-| 6 | 💪 **AgileFitness Book** | [`agilefitness`](https://github.com/coachmanjeet/agilefitness) | Build lasting health, strength, and energy with practical fitness and wellness habits designed for busy professionals. |
+| 2 | 🧭 **AI Product Strategy** | [`ai-product-strategy`](https://github.com/coachmanjeet/ai-product-startegy) | Create clear, board-ready AI product strategies that align teams, prioritize investments, and accelerate execution. |
+| 3 | 🔄 **Agent Lifecycle** | [`Agent-lifecycle`](https://github.com/coachmanjeet/agent-lifecycle) | Build production-ready AI agents with proven patterns for evaluation, observability, security, deployment, and continuous optimization. |
+| 4 | 📊 **Agentic Evals** | [`agentic-evals`](https://github.com/coachmanjeet/agentic-evals) | Measure, benchmark, and improve the quality, reliability, and business impact of AI agents, workflows, RAG systems, and models. |
+| 5 | 📊 **Agentic Observability** | [`agentic-observability`](https://github.com/coachmanjeet/agentic-evals) | Measure, benchmark, and improve the quality, reliability, and business impact of AI agents, workflows, RAG systems, and models. |
+| 6 | 🔬 **DeepDive into Claude Code Harness** | [`deep-drive-claude-code`](https://github.com/coachmanjeet/DeepDive-into-Claude-Code) | Learn Claude Code's architecture and design patterns to build more capable AI coding agents and developer tools. |
+| 7 | 💪 **AgileFitness Book** | [`agilefitness`](https://github.com/coachmanjeet/agilefitness) | Build lasting health, strength, and energy with practical fitness and wellness habits designed for busy professionals. |
 
 <br>
 
