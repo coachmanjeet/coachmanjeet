@@ -13,10 +13,10 @@ Most of my work is hands-on: real code, clear patterns, and tested setups for AI
 - A connected stack for the **Agent Development Life Cycle** — discover what to automate, build the agent, ship with evals, observe in production, and close the loop with auto-optimization. Each project below plugs into that flywheel.
 
 ```
-   🔍 Discover   →   🛠️  Build   →   🧪 Eval   →   📡 Observe        →   ⚡ Optimize
+   🔍 Discover   →   🛠️  Build   →   🧪 Evals   →   📡 Observe        →   ⚡ Optimize
         │                 │              │              │                      │
-    Discovery           Skills       Eval Pack     Data Foundation        Outcome/ROI
-                                     Harness       (STDM / OTel)          Optimization Loop
+    Automation          Skills       Agents        Data Foundation        Outcome/ROI
+    Discovery           MCPs         Harness       (Traces, Obs Logs)     Optimization Loop
                                                                          
 ```
 <br>
