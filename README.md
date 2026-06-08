@@ -11,27 +11,21 @@ My focus is simple:
 
 ---
 
-# 🧠 What I build
+## What I work on
 
-I work across three connected layers of agent systems:
+- AI Agents platform: single-agent, multi-agent, MCP-based, browser agents, voice agents
+- AI Evals: Model evals, RAG evals, Agent evals, harness evals, multi-modal evals
+- Agent Observablity: Agent monitoring, multi agent observablity, control tower
+- A connected stack for the **Agent Development Life Cycle** — discover what to automate, build the agent, ship with evals, observe in production, and close the loop with auto-optimization. Each project below plugs into that flywheel.
 
-## 🤖 Agent Systems
-Single-agent, multi-agent, MCP-based, browser agents, and voice agents.
-
-## 🧪 Evaluation Systems
-Model evals, RAG evals, agent evals, multi-agent evals, and evaluation harnesses.
-
-## 📡 Observability & Optimization
-Tracing, monitoring, debugging, feedback loops, and self-improving agents in production.
-
----
-
-# 🔁 Agent Development Lifecycle (ADLC)
-
-Everything I build follows a closed-loop system:
-
-```text
-🔍 Discover → 🛠️ Build → 🧪 Evaluate → 📡 Observe → ⚡ Improve
+```
+   🔍 Discover   →   🛠️  Build   →   🧪 Eval   →   📡 Observe        →   ⚡ Optimize
+        │                 │              │              │                      │
+    Discovery           Skills       Eval Pack     Data Foundation        Outcome/ROI
+                                     Harness       (STDM / OTel)          Optimization Loop
+                                                                         
+```
+<br>
 
 ## Ready-to-run examples: clone → install → run
 
