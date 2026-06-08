@@ -1,25 +1,37 @@
-**Hi, I'm Manjeet** 👋 
-| AI PM Lead — Agentforce  📍 San Francisco Bay Area
+# 👋 Hi, I'm Manjeet
 
-I build AI agents and ship working examples that you can use right away.
+AI Product Lead — Agent Platforms, Evals & Observability (Agentforce)  
+📍 San Francisco Bay Area
 
-Most of my work is hands-on: real code, clear patterns, and tested setups for AI Agents, Multi-agent teams, Eval, Observability, Self Improving Agents.
+I build production-ready AI agent systems and publish working reference implementations across evaluation, observability, and self-improving agent loops.
 
-## What I work on
+My focus is simple:
 
-- AI Agents platform: single-agent, multi-agent, MCP-based, browser agents, voice agents
-- AI Evals: Model evals, RAG evals, Agent evals, harness evals, multi-modal evals
-- Agent Observablity: Agent monitoring, multi agent observablity, control tower
-- A connected stack for the **Agent Development Life Cycle** — discover what to automate, build the agent, ship with evals, observe in production, and close the loop with auto-optimization. Each project below plugs into that flywheel.
+> How do we make AI agents reliable, measurable, and continuously improving in production?
 
-```
-   🔍 Discover   →   🛠️  Build   →   🧪 Evals   →   📡 Observe        →   ⚡ Optimize
-        │                 │              │              │                      │
-    Automation          Skills       Agents        Data Foundation        Outcome/ROI
-    Discovery           MCPs         Harness       (Traces, Obs Logs)     Optimization Loop
-                                                                         
-```
-<br>
+---
+
+# 🧠 What I build
+
+I work across three connected layers of agent systems:
+
+## 🤖 Agent Systems
+Single-agent, multi-agent, MCP-based, browser agents, and voice agents.
+
+## 🧪 Evaluation Systems
+Model evals, RAG evals, agent evals, multi-agent evals, and evaluation harnesses.
+
+## 📡 Observability & Optimization
+Tracing, monitoring, debugging, feedback loops, and self-improving agents in production.
+
+---
+
+# 🔁 Agent Development Lifecycle (ADLC)
+
+Everything I build follows a closed-loop system:
+
+```text
+🔍 Discover → 🛠️ Build → 🧪 Evaluate → 📡 Observe → ⚡ Improve
 
 ## Ready-to-run examples: clone → install → run
 
