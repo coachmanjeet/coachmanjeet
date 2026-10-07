@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Manjeet
 
 AI Product Lead — Agent Platforms, Evals & Observability (Agentforce)  
@@ -38,6 +39,7 @@ My focus is simple:
 | 5 | 📊 **Agentic Observability** | [`agentic-observability`](https://github.com/coachmanjeet/agent-ops) | Measure, benchmark, and improve the quality, reliability, and business impact of AI agents, workflows, RAG systems, and models. |
 | 6 | 🔬 **DeepDive into Claude Code Harness** | [`deep-drive-claude-code`](https://github.com/coachmanjeet/DeepDive-into-Claude-Code) | Learn Claude Code's architecture and design patterns to build more capable AI coding agents and developer tools. |
 | 7 | 💪 **AgileFitness Book** | [`agilefitness`](https://github.com/coachmanjeet/agilefitness) | Build lasting health, strength, and energy with practical fitness and wellness habits designed for busy professionals. |
+| 8 | 🔁 **AI Agent Eval Course** | [`AI Agent Eval Course`](https://github.com/coachmanjeet/AI-Agent-Evals-Course) | AI Evals in Practice: For AI Engineers and PMs
 
 <br>
 
