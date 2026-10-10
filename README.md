@@ -15,7 +15,7 @@ My focus is simple:
 
 A connected stack for the **Agent Development Life Cycle** — discover what to automate, build the agent, ship with evals, observe in production, and close the loop with auto-optimization. Each project below plugs into that flywheel.
 
-<img src="assets/flywheel.png" alt="Agent Development Life Cycle flywheel: Discover, Build, Eval, Observe, Optimize — inside Trust & Security" width="100%">
+<img src="assets/flywheel-light.png" alt="Agent Development Life Cycle flywheel: Discover, Build, Eval, Observe, Optimize — inside Trust & Security" width="100%">
 <br>
 
 ## 🎓 Teaching
