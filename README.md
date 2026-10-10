@@ -18,18 +18,25 @@ A connected stack for the **Agent Development Life Cycle** — discover what to 
 <img src="assets/flywheel.png" alt="Agent Development Life Cycle flywheel: Discover, Build, Eval, Observe, Optimize — inside Trust & Security" width="100%">
 <br>
 
+## 🎓 Teaching
+
+**AI Evals in Practice: For Engineers & PMs** — my six-week live course on ByteByteGo.
+
+One agent (Pronto, a grocery support bot), traced end-to-end across six weeks: error analysis, LLM judges, adversarial testing, RAG evals, multi-agent evals, and production eval infrastructure. Production tooling throughout — LangSmith, Braintrust, CrewAI. Week 1 needs no API key at all.
+
+[Explore the course repo →](https://github.com/coachmanjeet/AI-Agent-Evals-Course)
+
 ## Ready-to-run examples: clone → install → run
 
 | # | Name | Repo | What it helps you achieve |
 |:-:|---|---|---|
-| 1 | 🔁 **AI Agent Eval Course** | [`AI-Agent-Evals-Course`](https://github.com/coachmanjeet/AI-Agent-Evals-Course) | AI Evals in Practice: for AI Engineers and PMs — six weeks, Pronto-native, LangSmith + Braintrust + CrewAI. |
-| 2 | 🧠 **AI PM Team OS** | [`ai-pm-team-os`](https://github.com/coachmanjeet/ai-pm-team-os) | A Claude Code-powered operating system for AI product teams — skills do the work, agents review it. |
-| 3 | 🧭 **AI Product Strategy** | [`ai-product-strategy`](https://github.com/coachmanjeet/ai-product-strategy) | Putting Agentforce in front of service queues — resolve issues automatically without breaking trust or governance. |
-| 4 | 🎓 **AI Product Management Certification** | [`AI-Product-Managers`](https://github.com/coachmanjeet/AI-Product-Managers) | Six modules, 16 interactive tools, and a forkable capstone project. GitHub-native course. |
-| 5 | 🧪 **AI Skills Lab** | [`AI-Skills-Lab`](https://github.com/coachmanjeet/AI-Skills-Lab) | Hands-on eval curriculum — PM-friendly, browser-based, no accounts. |
-| 6 | 📡 **Agent Ops** | [`agent-ops`](https://github.com/coachmanjeet/agent-ops) | Operating, observing, and continuously improving AI agents in production. |
-| 7 | 🔬 **DeepDive into Claude Code** | [`DeepDive-into-Claude-Code`](https://github.com/coachmanjeet/DeepDive-into-Claude-Code) | Learn Claude Code's architecture and design patterns to build more capable AI coding agents. |
-| 8 | 🤖 **Agentforce ADLC** | [`agentforce-adlc`](https://github.com/coachmanjeet/agentforce-adlc) | Build, deploy, test, and optimize Agentforce agents — the Agent Development Life Cycle. |
+| 1 | 🧠 **AI PM Team OS** | [`ai-pm-team-os`](https://github.com/coachmanjeet/ai-pm-team-os) | A Claude Code-powered operating system for AI product teams — skills do the work, agents review it. |
+| 2 | 🧭 **AI Product Strategy** | [`ai-product-strategy`](https://github.com/coachmanjeet/ai-product-strategy) | Putting Agentforce in front of service queues — resolve issues automatically without breaking trust or governance. |
+| 3 | 🎓 **AI Product Management Certification** | [`AI-Product-Managers`](https://github.com/coachmanjeet/AI-Product-Managers) | Six modules, 16 interactive tools, and a forkable capstone project. GitHub-native course. |
+| 4 | 🧪 **AI Skills Lab** | [`AI-Skills-Lab`](https://github.com/coachmanjeet/AI-Skills-Lab) | Hands-on eval curriculum — PM-friendly, browser-based, no accounts. |
+| 5 | 📡 **Agent Ops** | [`agent-ops`](https://github.com/coachmanjeet/agent-ops) | Operating, observing, and continuously improving AI agents in production. |
+| 6 | 🔬 **DeepDive into Claude Code** | [`DeepDive-into-Claude-Code`](https://github.com/coachmanjeet/DeepDive-into-Claude-Code) | Learn Claude Code's architecture and design patterns to build more capable AI coding agents. |
+| 7 | 🤖 **Agentforce ADLC** | [`agentforce-adlc`](https://github.com/coachmanjeet/agentforce-adlc) | Build, deploy, test, and optimize Agentforce agents — the Agent Development Life Cycle. |
 
 <br>
 
