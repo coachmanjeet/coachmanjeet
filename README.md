@@ -16,17 +16,22 @@ My focus is simple:
 A connected stack for the **Agent Development Life Cycle** — discover what to automate, build the agent, ship with evals, observe in production, and close the loop with auto-optimization. Each project below plugs into that flywheel.
 
 ```mermaid
-flowchart TD
-    discover(["🔍 <b>Discover</b><br/>what to automate"]) --> build(["🛠️ <b>Build</b><br/>skills & agents"])
-    build --> eval(["🧪 <b>Eval</b><br/>packs & harnesses"])
-    eval --> observe(["📡 <b>Observe</b><br/>data foundation"])
-    observe --> optimize(["⚡ <b>Optimize</b><br/>outcome & ROI loop"])
-    optimize -.->|"close the loop"| discover
+%%{init: {'flowchart': {'nodeSpacing': 14, 'rankSpacing': 28}}}%%
+flowchart LR
+    subgraph trust["🛡️ Trust & Security"]
+        discover(["🔍 <b>Discover</b>"]) --> build(["🛠️ <b>Build</b>"])
+        build --> eval(["🧪 <b>Eval</b>"])
+        eval --> observe(["📡 <b>Observe</b>"])
+        observe --> optimize(["⚡ <b>Optimize</b>"])
+        optimize -.->|"close the loop"| discover
+    end
 
     classDef stage fill:#0B0F14,stroke:#2FA8FF,stroke-width:2px,color:#F0F6FC
     classDef accent fill:#0B0F14,stroke:#BFFF00,stroke-width:2px,color:#F0F6FC
+    classDef trustBox fill:#0B0F14,stroke:#BFFF00,stroke-width:1px,stroke-dasharray:6 4,color:#BFFF00
     class discover,build,eval,observe stage
     class optimize accent
+    class trust trustBox
 ```
 <br>
 
