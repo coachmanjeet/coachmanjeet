@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Manjeet
+<img src="assets/banner.png" alt="Manjeet Singh — AI Agents, Evals, Observability" width="100%">
 
-AI Product Lead — Agent Platforms, Evals & Observability (Agentforce)  
+AI Product Lead — Agent Platforms, Evals & Observability  
 📍 San Francisco Bay Area
 
 I build production-ready AI agent systems and publish working reference implementations across evaluation, observability, and self-improving agent loops.
@@ -13,10 +13,7 @@ My focus is simple:
 
 ## What I work on
 
-- AI Agents platform: single-agent, multi-agent, MCP-based, browser agents, voice agents
-- AI Evals: Model evals, RAG evals, Agent evals, harness evals, multi-modal evals
-- Agent Observability: Agent monitoring, multi agent observability, control tower
-- A connected stack for the **Agent Development Life Cycle** — discover what to automate, build the agent, ship with evals, observe in production, and close the loop with auto-optimization. Each project below plugs into that flywheel.
+A connected stack for the **Agent Development Life Cycle** — discover what to automate, build the agent, ship with evals, observe in production, and close the loop with auto-optimization. Each project below plugs into that flywheel.
 
 ```
    🔍 Discover   →   🛠️  Build   →   🧪 Eval   →   📡 Observe        →   ⚡ Optimize
