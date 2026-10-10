@@ -1,6 +1,6 @@
-<img src="assets/banner.png" alt="Manjeet Singh — AI Agents, Evals, Observability" width="100%">
+<img src="assets/banner.png" alt="Manjeet Singh — AI Agents, Evals, Observability, Trust" width="100%">
 
-AI Product Lead — Agent Platforms, Evals & Observability  
+AI Product Lead — Agent Platforms, Evals, Observability & Trust  
 📍 San Francisco Bay Area
 
 I build production-ready AI agent systems and publish working reference implementations across evaluation, observability, and self-improving agent loops.
