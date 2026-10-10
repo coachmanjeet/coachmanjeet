@@ -34,11 +34,10 @@ One agent (Pronto, a grocery support bot), traced end-to-end across six weeks: e
 |:-:|---|---|---|
 | 1 | 🧠 **AI PM Team OS** | [`ai-pm-team-os`](https://github.com/coachmanjeet/ai-pm-team-os) | A Claude Code-powered operating system for AI product teams — skills do the work, agents review it. |
 | 2 | 🧭 **AI Product Strategy** | [`ai-product-strategy`](https://github.com/coachmanjeet/ai-product-strategy) | Putting Agentforce in front of service queues — resolve issues automatically without breaking trust or governance. |
-| 3 | 🎓 **AI Product Management Certification** | [`AI-Product-Managers`](https://github.com/coachmanjeet/AI-Product-Managers) | Six modules, 16 interactive tools, and a forkable capstone project. GitHub-native course. |
-| 4 | 🧪 **AI Skills Lab** | [`AI-Skills-Lab`](https://github.com/coachmanjeet/AI-Skills-Lab) | Hands-on eval curriculum — PM-friendly, browser-based, no accounts. |
-| 5 | 📡 **Agent Ops** | [`agent-ops`](https://github.com/coachmanjeet/agent-ops) | Operating, observing, and continuously improving AI agents in production. |
-| 6 | 🔬 **DeepDive into Claude Code** | [`DeepDive-into-Claude-Code`](https://github.com/coachmanjeet/DeepDive-into-Claude-Code) | Learn Claude Code's architecture and design patterns to build more capable AI coding agents. |
-| 7 | 🤖 **Agentforce ADLC** | [`agentforce-adlc`](https://github.com/coachmanjeet/agentforce-adlc) | Build, deploy, test, and optimize Agentforce agents — the Agent Development Life Cycle. |
+| 3 | 🧪 **AI Skills Lab** | [`AI-Skills-Lab`](https://github.com/coachmanjeet/AI-Skills-Lab) | Hands-on eval curriculum — PM-friendly, browser-based, no accounts. |
+| 4 | 📡 **Agent Ops** | [`agent-ops`](https://github.com/coachmanjeet/agent-ops) | Operating, observing, and continuously improving AI agents in production. |
+| 5 | 🔬 **DeepDive into Claude Code** | [`DeepDive-into-Claude-Code`](https://github.com/coachmanjeet/DeepDive-into-Claude-Code) | Learn Claude Code's architecture and design patterns to build more capable AI coding agents. |
+| 6 | 🤖 **Agentforce ADLC** | [`agentforce-adlc`](https://github.com/coachmanjeet/agentforce-adlc) | Build, deploy, test, and optimize Agentforce agents — the Agent Development Life Cycle. |
 
 <br>
 
