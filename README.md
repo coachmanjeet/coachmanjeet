@@ -15,11 +15,18 @@ My focus is simple:
 
 A connected stack for the **Agent Development Life Cycle** — discover what to automate, build the agent, ship with evals, observe in production, and close the loop with auto-optimization. Each project below plugs into that flywheel.
 
-```
-   🔍 Discover   →   🛠️  Build   →   🧪 Eval   →   📡 Observe        →   ⚡ Optimize
-        │                 │              │              │                      │
-    Discovery           Skills       Eval Pack     Data Foundation        Outcome/ROI
-                                     Harness       (STDM / OTel)          Optimization Loop
+```mermaid
+flowchart LR
+    discover(["🔍 <b>Discover</b><br/>what to automate"]) --> build(["🛠️ <b>Build</b><br/>skills & agents"])
+    build --> eval(["🧪 <b>Eval</b><br/>packs & harnesses"])
+    eval --> observe(["📡 <b>Observe</b><br/>data foundation"])
+    observe --> optimize(["⚡ <b>Optimize</b><br/>outcome & ROI loop"])
+    optimize -.->|"close the loop"| discover
+
+    classDef stage fill:#0B0F14,stroke:#2FA8FF,stroke-width:2px,color:#F0F6FC
+    classDef accent fill:#0B0F14,stroke:#BFFF00,stroke-width:2px,color:#F0F6FC
+    class discover,build,eval,observe stage
+    class optimize accent
 ```
 <br>
 
