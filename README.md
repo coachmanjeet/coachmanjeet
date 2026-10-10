@@ -26,24 +26,28 @@ My focus is simple:
 ```
 <br>
 
-## 🏢 AgileAiLab — ventures
-
-| Venture | What it is |
-|---|---|
-| [Agent Gym](https://github.com/AgileAiLab/agent-gym) | Independent 360° fitness testing for AI agents — Physical, Mental, Financial, Spiritual, Trust |
-| [Specialized Evals Packs](https://github.com/AgileAiLab/specialized-evals-packs) | Productized eval packs: realistic scenarios, fixtures, and graders for specific agent workflows |
-
 ## Ready-to-run examples: clone → install → run
 
 | # | Name | Repo | What it helps you achieve |
 |:-:|---|---|---|
 | 1 | 🔁 **AI Agent Eval Course** | [`AI-Agent-Evals-Course`](https://github.com/coachmanjeet/AI-Agent-Evals-Course) | AI Evals in Practice: for AI Engineers and PMs — six weeks, Pronto-native, LangSmith + Braintrust + CrewAI. |
-| 2 | 🎓 **AI Product Management Certification** | [`AI-Product-Managers`](https://github.com/coachmanjeet/AI-Product-Managers) | Six modules, 16 interactive tools, and a forkable capstone project. GitHub-native course. |
-| 3 | 🧪 **AI Skills Lab** | [`AI-Skills-Lab`](https://github.com/coachmanjeet/AI-Skills-Lab) | Hands-on eval curriculum — PM-friendly, browser-based, no accounts. |
-| 4 | 📡 **Agent Ops** | [`agent-ops`](https://github.com/coachmanjeet/agent-ops) | Operating, observing, and continuously improving AI agents in production. |
-| 5 | 🔬 **DeepDive into Claude Code** | [`DeepDive-into-Claude-Code`](https://github.com/coachmanjeet/DeepDive-into-Claude-Code) | Learn Claude Code's architecture and design patterns to build more capable AI coding agents. |
-| 6 | 🤖 **Agentforce ADLC** | [`agentforce-adlc`](https://github.com/coachmanjeet/agentforce-adlc) | Build, deploy, test, and optimize Agentforce agents — the Agent Development Life Cycle. |
-| 7 | 💪 **AgileFitness Book** | [`agilefitness`](https://github.com/coachmanjeet/agilefitness) | Fitness and wellness for the modern human. |
+| 2 | 🧠 **AI PM Team OS** | [`ai-pm-team-os`](https://github.com/coachmanjeet/ai-pm-team-os) | A Claude Code-powered operating system for AI product teams — skills do the work, agents review it. |
+| 3 | 🧭 **AI Product Strategy** | [`ai-product-strategy`](https://github.com/coachmanjeet/ai-product-strategy) | Putting Agentforce in front of service queues — resolve issues automatically without breaking trust or governance. |
+| 4 | 🎓 **AI Product Management Certification** | [`AI-Product-Managers`](https://github.com/coachmanjeet/AI-Product-Managers) | Six modules, 16 interactive tools, and a forkable capstone project. GitHub-native course. |
+| 5 | 🧪 **AI Skills Lab** | [`AI-Skills-Lab`](https://github.com/coachmanjeet/AI-Skills-Lab) | Hands-on eval curriculum — PM-friendly, browser-based, no accounts. |
+| 6 | 📡 **Agent Ops** | [`agent-ops`](https://github.com/coachmanjeet/agent-ops) | Operating, observing, and continuously improving AI agents in production. |
+| 7 | 🔬 **DeepDive into Claude Code** | [`DeepDive-into-Claude-Code`](https://github.com/coachmanjeet/DeepDive-into-Claude-Code) | Learn Claude Code's architecture and design patterns to build more capable AI coding agents. |
+| 8 | 🤖 **Agentforce ADLC** | [`agentforce-adlc`](https://github.com/coachmanjeet/agentforce-adlc) | Build, deploy, test, and optimize Agentforce agents — the Agent Development Life Cycle. |
+
+<br>
+
+## 🏢 Ventures
+
+| Venture | What it is |
+|---|---|
+| [Agent Gym](https://github.com/AgileAiLab/agent-gym) | Independent 360° fitness testing for AI agents — Physical, Mental, Financial, Spiritual, Trust |
+| [Specialized Evals Packs](https://github.com/AgileAiLab/specialized-evals-packs) | Productized eval packs: realistic scenarios, fixtures, and graders for specific agent workflows |
+| [AgileFitness](https://github.com/coachmanjeet/agilefitness) | Fitness and wellness for the modern human — book + coaching |
 
 <br>
 
