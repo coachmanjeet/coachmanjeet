@@ -26,6 +26,8 @@ One agent (Pronto, a grocery support bot), traced end-to-end across six weeks: e
 
 [Explore the course repo →](https://github.com/coachmanjeet/AI-Agent-Evals-Course)
 
+**[👉 Register for the course](https://live.bytebytego.com/courses/ai-evals)**
+
 ## Ready-to-run examples: clone → install → run
 
 | # | Name | Repo | What it helps you achieve |
