@@ -16,7 +16,7 @@ My focus is simple:
 A connected stack for the **Agent Development Life Cycle** — discover what to automate, build the agent, ship with evals, observe in production, and close the loop with auto-optimization. Each project below plugs into that flywheel.
 
 ```mermaid
-flowchart LR
+flowchart TD
     discover(["🔍 <b>Discover</b><br/>what to automate"]) --> build(["🛠️ <b>Build</b><br/>skills & agents"])
     build --> eval(["🧪 <b>Eval</b><br/>packs & harnesses"])
     eval --> observe(["📡 <b>Observe</b><br/>data foundation"])
