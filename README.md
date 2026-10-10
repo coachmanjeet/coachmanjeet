@@ -54,13 +54,10 @@ My focus is simple:
 ---
 ## 🧪 Research & In-Flight
 
-- ✅ **Multimodal Agent Evals** — shipped in the course: [resources/multimodal-evals](https://github.com/coachmanjeet/AI-Agent-Evals-Course/tree/main/resources/multimodal-evals) — cross-modal consistency, ingestion fidelity, eval contracts.
-- 🔁 **Multi Agent Evals** — A scalable approach to test multi agent orchestration
-- 🧠 **Context Evals** — whether the system retrieved the right amount of context, placed it effectively, and preserved its usefulness.
-- 🔁 **Long running Agent Evals** — How to evaluate long running multi agent systems
-- 🧠 **Context Graph for AI** — Temporal context graph for agentic decision tracing. Co-invented with Vrajesh Pothiwala. *Patent pending.* DecisionTrace as a first-class data object, three-layer schema, similarity-scored precedent retrieval, autonomy flywheel.
-- 🔁 **Auto Agent Optimization Loop** — Data-driven flywheel + RL loop for autonomous agent improvement.
-- 🧠 **Robotic Evals** — Evaluating robotics with multimodality
+- ✅ **Multi-modal & Multi-agent Evals** — Testing agents that see, hear, and collaborate: cross-modal consistency (does the reply match the photo?), ingestion fidelity (did the agent actually read the image right?), and evals for multi-agent orchestration. Started: multimodal evals are now in the [course](https://github.com/coachmanjeet/AI-Agent-Evals-Course/tree/main/resources/multimodal-evals).
+- 🔁 **Always-on, Long-running Agents** — Agents that run for hours and days, not seconds. How do you eval drift, memory decay, and compounding errors over long horizons? The reliability question behind the entire always-on thesis.
+- 🧠 **RSI: Recursive Self-Improvement** — Agents that rewrite their own prompts, evals, and workflows. The hard problem: eval the *improver*, not just the output — who grades the grader when the grader rewrites itself?
+- 🤖 **Physical AI Evals** — Evaluating robots and embodied agents: perception-action loops, safety in the physical world, and the sim-to-real gap. Where evals meet reality.
 
 <br>
 ---
